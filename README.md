@@ -6,3 +6,5 @@ This project contains solution to a few coding challenges
 #### Few sorting algorithms
 #### LRU Cache using LinkedHashMap
 #### LRU Cache without using LinkedHashMap
+#### word machine which produces the result [13, 7] for "13 DUP 4 POP 5 DUP + DUP + -"
+     DUP -> duplicate, 
