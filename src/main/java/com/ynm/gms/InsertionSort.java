@@ -1,7 +1,7 @@
 package com.ynm.gms;
 
 /**
- * @Auther Yogesh Manware
+ * @author Yogesh Manware
  */
 public class InsertionSort {
 

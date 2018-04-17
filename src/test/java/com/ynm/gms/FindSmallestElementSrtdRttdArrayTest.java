@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 /**
- * @Auther Yogesh Manware
+ * @author Yogesh Manware
  */
 public class FindSmallestElementSrtdRttdArrayTest {
 

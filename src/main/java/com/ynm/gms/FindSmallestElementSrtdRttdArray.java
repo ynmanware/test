@@ -1,7 +1,10 @@
 package com.ynm.gms;
 
 /**
- * @Auther Yogesh Manware
+ * @author Yogesh Manware
+ *
+ * find smallest number using binary search
+ *
  */
 public class FindSmallestElementSrtdRttdArray {
 

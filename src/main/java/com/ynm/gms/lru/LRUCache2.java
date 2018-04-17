@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @auther Yogesh Manware
+ * @author Yogesh Manware
  */
 public class LRUCache2<K, V> {
 

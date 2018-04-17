@@ -1,7 +1,7 @@
 package com.ynm.gms;
 
 /**
- * @Auther Yogesh Manware
+ * @author Yogesh Manware
  */
 public class MergeSort {
 
@@ -50,13 +50,13 @@ public class MergeSort {
              }
         }
 
-        //copy remaining element
+        //copy remaining elements
         while(i < left.length) {
             arr[k++] = left[i++];
         }
 
-        while(i < left.length) {
-            arr[k++] = left[i++];
+        while(i < right.length) {
+            arr[k++] = right[i++];
         }
     }
 }

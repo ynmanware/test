@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import java.util.Arrays;
 
 /**
- * @Auther Yogesh Manware
+ * @author Yogesh Manware
  */
 public class InsertionSortTest {
 
