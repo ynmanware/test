@@ -7,4 +7,7 @@ This project contains solution to a few coding challenges
 #### LRU Cache using LinkedHashMap
 #### LRU Cache without using LinkedHashMap
 #### Word machine which produces the result [13, 7] for "13 DUP 4 POP 5 DUP + DUP + -"
-     DUP -> duplicate, 
+     DUP=duplicate
+#### Find sets of words that are anagram in the given list
+     Given - ["god", "dog", "eat", "tea", "pot"]
+     Result - [["god", "dog"],["eat", "tea"], "pot"]
