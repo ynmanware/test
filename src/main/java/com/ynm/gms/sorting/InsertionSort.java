@@ -1,4 +1,4 @@
-package com.ynm.gms;
+package com.ynm.gms.sorting;
 
 /**
  * @author Yogesh Manware

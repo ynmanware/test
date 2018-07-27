@@ -1,5 +1,6 @@
-package com.ynm.gms;
+package com.ynm.gms.sorting;
 
+import com.ynm.gms.sorting.MergeSort;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

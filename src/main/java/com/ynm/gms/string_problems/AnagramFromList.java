@@ -1,4 +1,4 @@
-package com.ynm.gms.anagram;
+package com.ynm.gms.string_problems;
 
 
 import org.slf4j.Logger;
@@ -16,14 +16,14 @@ public class AnagramFromList {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.addAll(Arrays.asList("eat", "tea", "pot", "top", "tie"));
-        Collection<List<String>> resultList = groupAnagrams(list);
+        String resultList = groupAnagrams(list).toString();
         logger.info("List of words {} ", list);
-        logger.info("Anagram View of the given list {}", resultList.toString());
+        logger.info("Anagram View of the given list {}", resultList);
         list.clear();
         list.addAll(Arrays.asList("lol", "llo", "rat", "tar", "art", "kart"));
-        Collection<Set<String>> resultList2 = groupAnagrams2(list);
+        String resultList2 = groupAnagrams2(list).toString();
         logger.info("List of words {} ", list);
-        logger.info("Anagram View of the given list {}", resultList2.toString());
+        logger.info("Anagram View of the given list {}", resultList2);
     }
 
     //return collection of lists of strings
